@@ -4,8 +4,8 @@
 
 ### 普通下载(.zip)
 
-1. 进入https://sprunki.app网址下载。
-2. 打开右边的标签打开。
+1. 进入https://sprunki.app 网址下载。
+3. 打开右边的标签打开。
 
 ### 安卓下载(.apk)
 
@@ -13,4 +13,4 @@
 
 ### macOS
 
-1. 进入https://sprunki.app网址下载。
+1. 进入https://sprunki.app 网址下载。
