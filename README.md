@@ -1,4 +1,4 @@
-# sprunki
+# Sprunki
 
 ## 下载方法
 
